@@ -1733,6 +1733,7 @@ AVOSCloud.requestSMSCodeInBackground("12312312312",null,"短信验证",10,
           }
       }
   }
+  );
 ```
 
 `validateGame` 是函数的名称，`parameters` 是传入的函数参数，`FunctionCallback` 对象作为调用结果的回调传入。
